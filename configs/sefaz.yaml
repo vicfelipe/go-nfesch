@@ -1,0 +1,298 @@
+sefaz:
+  RJ:
+    webservice:
+      versao: 4.0
+      url: https://nfce.svrs.rs.gov.br/ws/
+    qr_code:
+      chave:
+        url: www.fazenda.rj.gov.br/nfce/consulta
+      data:
+        url: http://www4.fazenda.rj.gov.br/consultaNFCe/QRCode
+    tag:
+      technical_manager: false
+  RO:
+    webservice:
+      versao: 4.0
+      url: https://nfce.svrs.rs.gov.br/ws/
+    qr_code:
+      chave:
+        url: www.sefin.ro.gov.br/nfce/consulta
+      data:
+        url: http://www.nfce.sefin.ro.gov.br/consultanfce/consulta.jsp
+    tag:
+      technical_manager: false
+  AC:
+    webservice:
+      versao: 4.0
+      url: https://nfce.svrs.rs.gov.br/ws/
+    qr_code:
+      chave:
+        url: www.sefaznet.ac.gov.br/nfce/consulta
+      data:
+        url: http://www.sefaznet.ac.gov.br/nfce/qrcode
+    tag:
+      technical_manager: false
+  AM:
+    webservice:
+      versao: 4.0
+      url: https://nfce.sefaz.am.gov.br/nfce-services/services/
+    qr_code:
+      chave:
+        url: www.sefaz.am.gov.br/nfce/consulta
+      data:
+        url: https://sistemas.sefaz.am.gov.br/nfceweb/consultarNFCe.jsp
+    tag:
+      technical_manager: true
+  RR:
+    webservice:
+      versao: 4.0
+      url: https://nfce.svrs.rs.gov.br/ws/
+    qr_code:
+      chave:
+        url: www.sefaz.rr.gov.br/nfce/consulta
+      data:
+        url: https://www.sefaz.rr.gov.br/nfce/servlet/qrcode
+    tag:
+      technical_manager: false
+  PA:
+    webservice:
+      versao: 4.0
+      url: https://nfce.svrs.rs.gov.br/ws/
+    qr_code:
+      chave:
+        url: www.sefa.pa.gov.br/nfce/consulta
+      data:
+        url: https://appnfc.sefa.pa.gov.br/portal/view/consultas/nfce/nfceForm.seam
+    tag:
+      technical_manager: false
+  AP:
+    webservice:
+      versao: 4.0
+      url: https://nfce.svrs.rs.gov.br/ws/
+    qr_code:
+      chave:
+        url: www.sefaz.ap.gov.br/nfce/consulta
+      data:
+        url: https://www.sefaz.ap.gov.br/nfce/nfcep.php
+    tag:
+      technical_manager: false
+  TO:
+    webservice:
+      versao: 4.0
+      url: https://nfce.svrs.rs.gov.br/ws/
+    qr_code:
+      chave:
+        url: http://www.sefaz.to.gov.br/nfce/consulta
+      data:
+        url: http://www.sefaz.to.gov.br/nfce/qrcode
+    tag:
+      technical_manager: true
+  MA:
+    webservice:
+      versao: 4.0
+      url: https://nfce.svrs.rs.gov.br/ws/
+    qr_code:
+      chave:
+        url: www.sefaz.ma.gov.br/nfce/consulta
+      data:
+        url: http://nfce.sefaz.ma.gov.br/portal/consultarNFCe.jsp
+    tag:
+      technical_manager: false
+  PI:
+    webservice:
+      versao: 4.0
+      url: https://nfce.svrs.rs.gov.br/ws/
+    qr_code:
+      chave:
+        url: www.sefaz.pi.gov.br/nfce/consulta
+      data:
+        url: https://www.sefaz.pi.gov.br/nfce/qrcode
+    tag:
+      technical_manager: false
+  CE:
+    webservice:
+      versao: 3.1
+      url: https://nfceh.sefaz.ce.gov.br/nfce/services/
+    qr_code:
+      chave:
+        url: www.sefaz.ce.gov.br/nfce/consulta
+      data:
+        url: http://nfce.sefaz.ce.gov.br/pages/ShowNFCe.html
+    tag:
+      technical_manager: false
+  RN:
+    webservice:
+      versao: 4.0
+      url: https://nfce.svrs.rs.gov.br/ws/
+    qr_code:
+      chave:
+        url: www.set.rn.gov.br/nfce/consulta
+      data:
+        url: http://nfce.set.rn.gov.br/consultarNFCe.aspx
+    tag:
+      technical_manager: false
+  PB:
+    webservice:
+      versao: 4.0
+      url: https://nfce.svrs.rs.gov.br/ws/
+    qr_code:
+      chave:
+        url: www.sefaz.pb.gov.br/nfce/consulta
+      data:
+        url: http://www.sefaz.pb.gov.br/nfce
+    tag:
+      technical_manager: false
+  PE:
+    webservice:
+      versao: 4.0
+      url: https://nfce.svrs.rs.gov.br/ws/
+    qr_code:
+      chave:
+        url: nfce.sefaz.pe.gov.br/nfce/consulta
+      data:
+        url: http://nfce.sefaz.pe.gov.br/nfce/consulta
+    tag:
+      technical_manager: true
+  AL:
+    webservice:
+      versao: 4.0
+      url: https://nfce.svrs.rs.gov.br/ws/
+    qr_code:
+      chave:
+        url: www.sefaz.al.gov.br/nfce/consulta
+      data:
+        url: http://nfce.sefaz.al.gov.br/QRCode/consultarNFCe.jsp
+    tag:
+      technical_manager: false
+  SE:
+    webservice:
+      versao: 4.0
+      url: https://nfce.svrs.rs.gov.br/ws/
+    qr_code:
+      chave:
+        url: http://www.nfce.se.gov.br/nfce/consulta
+      data:
+        url: http://www.nfce.se.gov.br/nfce/qrcode
+    tag:
+      technical_manager: false
+  BA:
+    webservice:
+      versao: 4.0
+      url: https://nfce.svrs.rs.gov.br/ws/
+    qr_code:
+      chave:
+        url: www.sefaz.ba.gov.br/nfce/consulta
+      data:
+        url: http://nfe.sefaz.ba.gov.br/servicos/nfce/qrcode.aspx
+    tag:
+      technical_manager: false
+  MG:
+    webservice:
+      versao: 4.0
+      url: https://nfce.fazenda.mg.gov.br/nfce/services/
+    qr_code:
+      chave:
+        url: https://portalsped.fazenda.mg.gov.br/portalnfce
+      data:
+        url: https://portalsped.fazenda.mg.gov.br/portalnfce/sistema/qrcode.xhtml
+    tag:
+      technical_manager: false
+  ES:
+    webservice:
+      versao: 4.0
+      url: https://nfce.svrs.rs.gov.br/ws/
+    qr_code:
+      chave:
+        url: www.sefaz.es.gov.br/nfce/consulta
+      data:
+        url: http://app.sefaz.es.gov.br/ConsultaNFCe/
+    tag:
+      technical_manager: false
+  SP:
+    webservice:
+      versao: 4.0
+      url: https://nfce.fazenda.sp.gov.br/ws/
+    qr_code:
+      chave:
+        url: https://www.nfce.fazenda.sp.gov.br/consulta
+      data:
+        url: https://www.nfce.fazenda.sp.gov.br/qrcode
+    tag:
+      technical_manager: false
+  PR:
+    webservice:
+      versao: 4.0
+      url: https://nfce.sefa.pr.gov.br/nfce/
+    qr_code:
+      chave:
+        url: http://www.fazenda.pr.gov.br/nfce/consulta
+      data:
+        url: http://www.fazenda.pr.gov.br/nfce/qrcode
+    tag:
+      technical_manager: true
+  SC:
+    webservice:
+      versao: 4.0
+      url: https://nfce.svrs.rs.gov.br/ws/
+    qr_code:
+      chave:
+        url: https://sat.sef.sc.gov.br/nfce/consulta
+      data:
+        url: https://sat.sef.sc.gov.br/nfce/consulta
+    tag:
+      technical_manager: true
+  RS:
+    webservice:
+      versao: 4.0
+      url: https://nfce.sefazrs.rs.gov.br/ws/
+    qr_code:
+      chave:
+        url: www.sefaz.rs.gov.br/nfce/consulta
+      data:
+        url: https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx
+    tag:
+      technical_manager: false
+  MS:
+    webservice:
+      versao: 4.0
+      url: https://nfce.sefaz.ms.gov.br/ws/
+    qr_code:
+      chave:
+        url: www.dfe.ms.gov.br/nfce/consulta
+      data:
+        url: http://www.dfe.ms.gov.br/nfce/qrcode
+    tag:
+      technical_manager: true
+  MT:
+    webservice:
+      versao: 4.0
+      url: https://nfce.sefaz.mt.gov.br/nfcews/services/
+    qr_code:
+      chave:
+        url: http://www.sefaz.mt.gov.br/nfce/consultanfce
+      data:
+        url: http://www.sefaz.mt.gov.br/nfce/consultanfce
+    tag:
+      technical_manager: false
+  GO:
+    webservice:
+      versao: 4.0
+      url: https://nfe.sefaz.go.gov.br/nfe/services/
+    qr_code:
+      chave:
+        url: www.sefaz.go.gov.br/nfce/consulta
+      data:
+        url: http://nfe.sefaz.go.gov.br/nfeweb/sites/nfce/danfeNFCe
+    tag:
+      technical_manager: false
+  DF:
+    webservice:
+      versao: 4.0
+      url: https://nfce.svrs.rs.gov.br/ws/
+    qr_code:
+      chave:
+        url: www.fazenda.df.gov.br/nfce/consulta
+      data:
+        url: http://www.fazenda.df.gov.br/nfce/qrcode
+    tag:
+      technical_manager: false
